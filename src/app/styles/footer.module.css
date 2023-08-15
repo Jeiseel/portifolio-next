@@ -1,0 +1,24 @@
+.footer {
+    background-color: #b2dab6;
+    color: black;
+    width: 100vw;
+    height: 100px;
+    padding: 30px;
+    position: absolute; 
+    bottom: 0;
+    border-top-left-radius: 34px;
+    border-top-right-radius: 34px;
+}
+
+.footer a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.footerContent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}

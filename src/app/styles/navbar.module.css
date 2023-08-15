@@ -1,0 +1,12 @@
+.navbar {
+    width: 100vw;
+    height: 80px;
+    padding: 30px;
+}
+
+.logo {
+    display: flex;
+    flex-direction: row;
+    justify-content: start;
+    align-items: center;
+}

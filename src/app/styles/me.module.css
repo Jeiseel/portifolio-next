@@ -1,0 +1,14 @@
+.about {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .p {
+        margin-top: 40px;
+        padding: 0 20%;
+    }
+}
+
+.image {
+    border-radius: 50%;
+}
